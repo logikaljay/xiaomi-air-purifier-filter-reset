@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node --import tsx src/index.ts",
-    "test": "node --import tsx tests/getpwd.test.ts"
+    "test": "node --import tsx --test --test-reporter=${TEST_REPORTER:-spec} --test-reporter-destination=${TEST_REPORTER_DESTINATION:-stdout} **/*.test.ts"
   },
   "keywords": [],
   "author": "",
