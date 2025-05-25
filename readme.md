@@ -19,7 +19,7 @@ $ pnpm i
 $ # RTFM (below)
 ```
 
-## how-to
+## how to
 
 1. Download NFC Tools from the app store.
 2. Scan the filters RFID tag:
