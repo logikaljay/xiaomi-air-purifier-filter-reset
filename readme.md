@@ -44,3 +44,6 @@ $ # RTFM (below)
 - https://unethical.info/2024/01/24/hacking-my-air-purifier/ - deadlink at the time of writing
   - https://web.archive.org/web/20250424120007if_/https://unethical.info/2024/01/24/hacking-my-air-purifier/
 - https://hackaday.com/2024/01/26/hacking-a-xiaomi-air-purifiers-filter-drm-to-extend-its-lifespan/
+- https://www.wakdev.com/en/apps.html
+  - https://apps.apple.com/us/app/nfc-tools/id1252962749
+  - https://play.google.com/store/apps/details?id=com.wakdev.wdnfc
