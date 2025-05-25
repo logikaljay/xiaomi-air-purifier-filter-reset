@@ -2,6 +2,7 @@ import crypto from 'node:crypto';
 import clipboard from "copy-paste"
 
 function getpwd(uid: string): string {
+  // Remove colons if they exist
   if (uid.includes(':')) {
     uid = uid.replaceAll(':', '')
   }
