@@ -38,3 +38,9 @@ $ # RTFM (below)
    - Tap "Send command"
    - Hold phone near RFID tag
 
+## references
+
+- https://github.com/Flamingo-tech/xiaomi-air-purifier-reverse-engineering/tree/main/Filter%20information
+- https://unethical.info/2024/01/24/hacking-my-air-purifier/ - deadlink at the time of writing
+  - https://web.archive.org/web/20250424120007if_/https://unethical.info/2024/01/24/hacking-my-air-purifier/
+- https://hackaday.com/2024/01/26/hacking-a-xiaomi-air-purifiers-filter-drm-to-extend-its-lifespan/
