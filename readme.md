@@ -22,19 +22,19 @@ $ # RTFM (below)
 ## how-to
 
 1. Download NFC Tools from the app store.
-2. Scan the filters RFID tag
-  a. Open NFC Tools
-  b. Tap "Read" from main menu.
-  c. Scan RFID tag
+2. Scan the filters RFID tag:
+   - Open NFC Tools
+   - Tap "Read" from main menu
+   - Scan RFID tag
 3. Copy the "Serial number"
 4. Run `pnpm run start <serial number>`
 5. The script will produce a Reset code to reset the filter back to 100% (new)
-6. Write the reset code back to the RFID tag
-  a. Open NFC Tools
-  b. Tap "Other" in main menu
-  c. Tap "Advanced NFC Commands"
-  d. Agree to the disclaimer
-  e. Paste/write in the reset code in the "Data" field.
-  f. Tap "Send command"
-  g. Hold phone near RFID tag.
+6. Write the reset code back to the RFID tag:
+   - Open NFC Tools
+   - Tap "Other" in main menu
+   - Tap "Advanced NFC Commands"
+   - Agree to the disclaimer
+   - Paste/write in the reset code in the "Data" field
+   - Tap "Send command"
+   - Hold phone near RFID tag
 
