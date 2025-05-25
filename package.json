@@ -1,0 +1,21 @@
+{
+  "name": "xiaomi-air-purifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --import tsx src/index.ts",
+    "test": "node --import tsx tests/getpwd.test.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.6.0",
+  "dependencies": {
+    "copy-paste": "^2.1.1",
+    "tsx": "^4.19.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.21"
+  }
+}
